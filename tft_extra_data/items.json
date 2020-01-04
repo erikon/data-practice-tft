@@ -1,234 +1,292 @@
 [
   {
     "id": 1,
-    "name": "B.F. Sword"
+    "name": "B.F. Sword",
+    "tier": "S"
   },
   {
     "id": 5,
-    "name": "Chain Vest"
+    "name": "Chain Vest",
+    "tier": "B"
   },
   {
     "id": 7,
-    "name": "Giant's Belt"
+    "name": "Giant's Belt",
+    "tier": "A"
   },
   {
     "id": 3,
-    "name": "Needlessly Large Rod"
+    "name": "Needlessly Large Rod",
+    "tier": "A"
   },
   {
     "id": 6,
-    "name": "Negatron Cloak"
+    "name": "Negatron Cloak",
+    "tier": "B"
   },
   {
     "id": 2,
-    "name": "Recurve Bow"
+    "name": "Recurve Bow",
+    "tier": "S"
   },
   {
     "id": 8,
-    "name": "Spatula"
+    "name": "Spatula",
+    "tier": "S"
   },
   {
     "id": 9,
-    "name": "Sparring Gloves"
+    "name": "Sparring Gloves",
+    "tier": "B"
   },
   {
     "id": 4,
-    "name": "Tear of the Goddess"
+    "name": "Tear of the Goddess",
+    "tier": "S"
   },
   {
     "id": 89,
-    "name": "Berserker Axe"
+    "name": "Berserker Axe",
+    "tier": "B"
   },
   {
     "id": 28,
-    "name": "Blade of the Ruined King"
+    "name": "Blade of the Ruined King",
+    "tier": "S"
   },
   {
     "id": 16,
-    "name": "Bloodthirster"
+    "name": "Bloodthirster",
+    "tier": "A"
   },
   {
     "id": 11,
-    "name": "Deathblade"
+    "name": "Deathblade",
+    "tier": "A"
   },
   {
     "id": 66,
-    "name": "Dragon's Claw"
+    "name": "Dragon's Claw",
+    "tier": "S"
   },
   {
     "id": 88,
-    "name": "Force of Nature"
+    "name": "Force of Nature",
+    "tier": "S"
   },
   {
     "id": 45,
-    "name": "Frozen Heart"
+    "name": "Frozen Heart",
+    "tier": "B"
   },
   {
     "id": 78,
-    "name": "Frozen Mallet"
+    "name": "Frozen Mallet",
+    "tier": "A"
   },
   {
     "id": 12,
-    "name": "Giant Slayer"
+    "name": "Giant Slayer",
+    "tier": "A"
   },
   {
     "id": 15,
-    "name": "Guardian Angel"
+    "name": "Guardian Angel",
+    "tier": "A"
   },
   {
     "id": 23,
-    "name": "Guinsoo's Rageblade"
+    "name": "Guinsoo's Rageblade",
+    "tier": "B"
   },
   {
     "id": 49,
-    "name": "Hand of Justice"
+    "name": "Hand of Justice",
+    "tier": "B"
   },
   {
     "id": 13,
-    "name": "Hextech Gunblade"
+    "name": "Hextech Gunblade",
+    "tier": "B"
   },
   {
     "id": 46,
-    "name": "Hush"
+    "name": "Hush",
+    "tier": "A"
   },
   {
     "id": 59,
-    "name": "Iceborne Gauntlet"
+    "name": "Iceborne Gauntlet",
+    "tier": "B"
   },
   {
     "id": 38,
-    "name": "Inferno Cinder"
+    "name": "Inferno Cinder",
+    "tier": "B"
   },
   {
     "id": 19,
-    "name": "Infinity Edge"
+    "name": "Infinity Edge",
+    "tier": "A"
   },
   {
     "id": 36,
-    "name": "Ionic Spark"
+    "name": "Ionic Spark",
+    "tier": "B"
   },
   {
     "id": 39,
-    "name": "Jeweled Guantlet"
+    "name": "Jeweled Guantlet",
+    "tier": "A"
   },
   {
     "id": 35,
-    "name": "Locked of the Iron Solari"
+    "name": "Locked of the Iron Solari",
+    "tier": "A"
   },
   {
     "id": 34,
-    "name": "Luden's Echo"
+    "name": "Luden's Echo",
+    "tier": "B"
   },
   {
     "id": 48,
-    "name": "Mage's Cap"
+    "name": "Mage's Cap",
+    "tier": "A"
   },
   {
     "id": 37,
-    "name": "Morellonomicon"
+    "name": "Morellonomicon",
+    "tier": "S"
   },
   {
     "id": 25,
-    "name": "Phantom Dancer"
+    "name": "Phantom Dancer",
+    "tier": "A"
   },
   {
     "id": 69,
-    "name": "Quicksilver"
+    "name": "Quicksilver",
+    "tier": "C"
   },
   {
     "id": 33,
-    "name": "Rabadon's Deathcap"
+    "name": "Rabadon's Deathcap",
+    "tier": "A"
   },
   {
     "id": 22,
-    "name": "Rapid Firecannon"
+    "name": "Rapid Firecannon",
+    "tier": "B"
   },
   {
     "id": 57,
-    "name": "Red Buff"
+    "name": "Red Buff",
+    "tier": "B"
   },
   {
     "id": 47,
-    "name": "Redemption"
+    "name": "Redemption",
+    "tier": "A"
   },
   {
     "id": 29,
-    "name": "Repeating Crossbow"
+    "name": "Repeating Crossbow",
+    "tier": "B"
   },
   {
     "id": 26,
-    "name": "Runaan's Hurricane"
+    "name": "Runaan's Hurricane",
+    "tier": "S"
   },
   {
     "id": 44,
-    "name": "Seraph's Embrace"
+    "name": "Seraph's Embrace",
+    "tier": "S"
   },
   {
     "id": 14,
-    "name": "Spear of Shojin"
+    "name": "Spear of Shojin",
+    "tier": "A"
   },
   {
     "id": 24,
-    "name": "Statikk Shiv"
+    "name": "Statikk Shiv",
+    "tier": "A"
   },
   {
     "id": 56,
-    "name": "Sword Breaker"
+    "name": "Sword Breaker",
+    "tier": "B"
   },
   {
     "id": 68,
-    "name": "Talisman of Light"
+    "name": "Talisman of Light",
+    "tier": "A"
   },
   {
     "id": 99,
-    "name": "Thief's Gloves"
+    "name": "Thief's Gloves",
+    "tier": "A"
   },
   {
     "id": 55,
-    "name": "Thornmail"
+    "name": "Thornmail",
+    "tier": "B"
   },
   {
     "id": 27,
-    "name": "Titanic Hydra"
+    "name": "Titanic Hydra",
+    "tier": "B"
   },
   {
     "id": 79,
-    "name": "Trap Claw"
+    "name": "Trap Claw",
+    "tier": "B"
   },
   {
     "id": 58,
-    "name": "Warden's Mail"
+    "name": "Warden's Mail",
+    "tier": "B"
   },
   {
     "id": 77,
-    "name": "Warmog's Armor"
+    "name": "Warmog's Armor",
+    "tier": "A"
   },
   {
     "id": 18,
-    "name": "Youmuu's Ghostblade"
+    "name": "Youmuu's Ghostblade",
+    "tier": "A"
   },
   {
     "id": 17,
-    "name": "Zeke's Herald"
+    "name": "Zeke's Herald",
+    "tier": "B"
   },
   {
     "id": 67,
-    "name": "Zephyr"
+    "name": "Zephyr",
+    "tier": "A"
   },
   {
     "id": 10201,
-    "name": "Inferno Hex"
+    "name": "Inferno Hex",
+    "tier": "A"
   },
   {
     "id": 10202,
-    "name": "Mountain Hex"
+    "name": "Mountain Hex",
+    "tier": "B"
   },
   {
     "id": 10203,
-    "name": "Ocean Hex"
+    "name": "Ocean Hex",
+    "tier": "A"
   },
   {
     "id": 10204,
-    "name": "Cloud Hex"
+    "name": "Cloud Hex",
+    "tier": "B"
   }
 ]

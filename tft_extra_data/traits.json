@@ -105,7 +105,7 @@
     "name": "Poison",
     "description": "Deploying mutliple Poison champions causes their damaging attacks and abilities to increase the mana costs of their targets' abilities.",
     "sets": [3],
-    "tier": "S"
+    "tier": "B"
   },
   {
     "name": "Predator",
@@ -123,7 +123,7 @@
     "name": "Shadow",
     "description": "Deploying multiple Shadow champions causes them to deal increased damage for the first few seconds of combat, as well as for a few seconds when they score a takedown. Deploying more Shadow champions causes all of them to deal increased damage when any of them score a takedown.",
     "sets": [2, 4],
-    "tier": "B"
+    "tier": "A"
   },
   {
     "name": "Steel",
